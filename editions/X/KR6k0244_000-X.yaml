@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6k0244/x/v1/juan/0
+seq: 0
+front:
+  text: 律要後集目次誦或本出地持戒品中菩薩戒本經故今省之菩薩戒羯磨文釋收于續藏經第六十壹套中重定授菩薩戒法學菩薩戒法梵網經懺悔行法出于在家律要廣集故今省之毗尼後集問辯
+  hash: sha256:6192b92222b6bdd0d706fbf64ba1711d6212cc5ac75b1868b2334f12e9ed6ec7
+  markers:
+  - {type: 其他, offset: 0, content: 律要後集目次, id: KR6k0244_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 律要後集
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X60/X60n1124.xml
+    old_id: X60n1124
+hash: sha256:39cf6b0e5c40247df0e9d5e05b1d55563265ddb34f30d8700c6ab5a099dcfd3d

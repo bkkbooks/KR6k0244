@@ -1,0 +1,188 @@
+canonical_identifier: bkk:krp/KR6k0244/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0244/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 律要後集
+  identifiers:
+    krp: KR6k0244
+    cbeta: X60n1124
+    cbeta_old_id: X60n1124
+    authorityid: CA0002134
+    json_key: X1124
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X60/X60n1124.xml
+    old_id: X60n1124
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0244_000-X.yaml, hash: 'sha256:39cf6b0e5c40247df0e9d5e05b1d55563265ddb34f30d8700c6ab5a099dcfd3d'}
+  - {seq: 1, filename: KR6k0244_001-X.yaml, hash: 'sha256:2ccfb3e5330d7e44c5880ca1e723157dc94e3b66e4032c522769f0efb7eadcac'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0244_000-X.markers.yaml, hash: 'sha256:b8a65b5ec6230c59eb6c6ca7275841a24b0c6592cd80215dde589fee50fe9d4c'}
+  - {seq: 1, role: markers, filename: assets/KR6k0244_001-X.markers.yaml, hash: 'sha256:c4f927a5e9f32a09f721295ae0bd4daf633e583f05154fed815a13a11a56f31e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0244_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 律要後集目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0244_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 8292
+  label: 律要後集
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0244_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 重定授菩薩戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0244_X_001-mulu-2
+    span:
+    - body
+    - 1450
+    - 1450
+  label: 䟦語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0244_X_001-mulu-3
+    span:
+    - body
+    - 1621
+    - 1621
+  label: 學菩薩戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0244_X_001-mulu-4
+    span:
+    - body
+    - 1711
+    - 1711
+  label: 一嚴道場
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0244_X_001-mulu-5
+    span:
+    - body
+    - 1836
+    - 1836
+  label: 二淨三業
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0244_X_001-mulu-6
+    span:
+    - body
+    - 1930
+    - 1930
+  label: 三結界
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0244_X_001-mulu-7
+    span:
+    - body
+    - 2032
+    - 2032
+  label: 四修供養
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0244_X_001-mulu-8
+    span:
+    - body
+    - 2286
+    - 2286
+  label: 五讚禮歸依
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0244_X_001-mulu-9
+    span:
+    - body
+    - 2721
+    - 2721
+  label: 六悔除惡罪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0244_X_001-mulu-10
+    span:
+    - body
+    - 2871
+    - 2871
+  label: 七敬白請證
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0244_X_001-mulu-11
+    span:
+    - body
+    - 3076
+    - 3076
+  label: 八正誦戒經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0244_X_001-mulu-12
+    span:
+    - body
+    - 3210
+    - 3210
+  label: 九發誓禮佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0244_X_001-mulu-13
+    span:
+    - body
+    - 3857
+    - 3857
+  label: 十發願迴向
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0244_X_001-mulu-14
+    span:
+    - body
+    - 6440
+    - 6440
+  label: 毗尼後集問辯
+  type: mulu
+  level: 1
+hash: sha256:fc98e3264b7f97d2cedf6c361ab3330fefdd7f1dab1f1446e035f3e694dda395
