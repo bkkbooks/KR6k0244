@@ -21,6 +21,7 @@ markers:
   - {type: line-break, offset: 24, content: '', id: KR6k0244_X_000-0907a04, ed: R106, 'n': 0907a04}
   - {type: xml-element, offset: 24, content: '', id: itemX60p0545a0601, name: item, role: open, attrs: {'xml:id': itemX60p0545a0601}}
   - {type: xml-element, offset: 31, content: '', id: KR6k0244_X_000-bkkxmlele4, name: note, role: open, attrs: {place: inline}}
+  - {type: substitution, offset: 39, original: 壹, replacement: 一, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20157}}
   - {type: punctuation, offset: 42, content: 。, id: KR6k0244_X_000-bkkpn3}
   - {type: xml-element, offset: 42, content: '', id: KR6k0244_X_000-bkkxmlele5, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 42, content: '', id: itemX60p0545a0601_end, name: item, role: close, attrs: {'xml:id': itemX60p0545a0601}}
@@ -41,6 +42,7 @@ markers:
   - {type: line-break, offset: 73, content: '', id: KR6k0244_X_000-0545a09, ed: X, 'n': 0545a09}
   - {type: line-break, offset: 73, content: '', id: KR6k0244_X_000-0907a07, ed: R106, 'n': 0907a07}
   - {type: xml-element, offset: 73, content: '', id: itemX60p0545a0901, name: item, role: open, attrs: {'xml:id': itemX60p0545a0901}}
+  - {type: substitution, offset: 78, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
   - {type: xml-element, offset: 79, content: '', id: itemX60p0545a0901_end, name: item, role: close, attrs: {'xml:id': itemX60p0545a0901}}
   - {type: xml-element, offset: 79, content: '', id: KR6k0244_X_000-bkkxmlele8, name: list, role: close, attrs: {rend: no-marker}}
   - {type: line-break, offset: 79, content: '', id: KR6k0244_X_000-0545a10, ed: X, 'n': 0545a10}
@@ -60,4 +62,4 @@ markers:
   - {type: line-break, offset: 79, content: '', id: KR6k0244_X_000-0907a09, ed: R106, 'n': 0907a09}
   body: []
   back: []
-hash: sha256:4759c2fc8330a2c32b1aef588dc7726a277dce9ab3bf8db096c9ce4ec5201129
+hash: sha256:38bbf719c049e2025abb7b1a7ff9c5ad3e25ae6fb01e56188859a161901c74ce
