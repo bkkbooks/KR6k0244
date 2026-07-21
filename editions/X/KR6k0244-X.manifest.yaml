@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0244_000-X.yaml, hash: 'sha256:39cf6b0e5c40247df0e9d5e05b1d55563265ddb34f30d8700c6ab5a099dcfd3d'}
+  - {seq: 0, filename: KR6k0244_000-X.yaml, hash: 'sha256:8b76e140d1d77defc47a4bf03e89fa7934bc202c99fc22da8e6ddf9d84c668d1'}
   - {seq: 1, filename: KR6k0244_001-X.yaml, hash: 'sha256:2ccfb3e5330d7e44c5880ca1e723157dc94e3b66e4032c522769f0efb7eadcac'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0244_000-X.markers.yaml, hash: 'sha256:b8a65b5ec6230c59eb6c6ca7275841a24b0c6592cd80215dde589fee50fe9d4c'}
+  - {seq: 0, role: markers, filename: assets/KR6k0244_000-X.markers.yaml, hash: 'sha256:405dac9455d5864c2f159d7eee5800835ebdddc164975fd3b4b3820ebf6e17b6'}
   - {seq: 1, role: markers, filename: assets/KR6k0244_001-X.markers.yaml, hash: 'sha256:c4f927a5e9f32a09f721295ae0bd4daf633e583f05154fed815a13a11a56f31e'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6k0244_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 律要後集目次
@@ -185,4 +185,4 @@ table_of_contents:
   label: 毗尼後集問辯
   type: mulu
   level: 1
-hash: sha256:fc98e3264b7f97d2cedf6c361ab3330fefdd7f1dab1f1446e035f3e694dda395
+hash: sha256:1bb0c3a5582f56ed8417714256deaf40cae26c06fe7da33c55efdb9eea7d47ea
